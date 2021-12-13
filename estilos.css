@@ -1,0 +1,90 @@
+*{
+	font-family: sans-serif;
+	
+	margin: 0;
+	padding: 0:;
+}
+.nav{
+	background-color: #323368;
+	
+	
+}
+.nav__li{
+	display: inline-block;
+	padding: 8px;
+	margin-left: 150px;
+	color: #fff
+	
+}
+.nav__li a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: roboto;
+}
+.logo{
+	width: 30px;
+	
+}
+.letras{
+	text-align: center;
+	padding: 15px;
+	font size: 10em;
+	font-family: roboto;
+	color:  #134076
+}
+.carrusel{
+	border-style: solid;
+	border-color: #134076;
+	border-width: 15px;
+	margin: 0;
+	padding: 0;
+}
+.imagenes{
+	height: 600px;
+	width: 1300px;
+	margin: 10px auto;
+	display: block;
+	
+}
+.footer{
+	background-color: #323368;
+	margin: 10px auto;
+	padding: 10px;
+}
+.negrita{
+	color: white;
+	font-family: roboto;
+	margin-left: 80%;
+}
+.descripcion{
+	padding: 15px;
+	font size: 10em;
+	font-family: roboto;
+	color:  #134076
+}
+.imprenta{
+	height: 300px;
+	width: 600px;
+	margin: 10px auto;
+	display: block;
+}
+.estudiante{
+	height: 300px;
+	width: 600px;
+	margin: 10px auto;
+	display: block;
+	border-color: blue;
+	border-width: 2px;
+}
+.iconos{
+	height: 30px;
+	width: 30px;
+}
+.icons{
+	color:#134076;
+	text-decoration: none;
+	
+	font-size: 20px;
+	font-family: roboto;
+}
